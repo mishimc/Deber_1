@@ -1,10 +1,10 @@
-# Deber_1
+# Deber 1
 En este trabajo se realizó una adquisición de una API de datos meteorológicos y visualización de datos. Los resultados los tenemos a continuación.
 La siguiente figura nos demuestra que a una profundidad de 54 cm, la temperatura no presenta una variación alta.
-![Image](https://github.com/user-attachments/assets/156ab621-7baa-4d5f-9567-8b75dc5d14b7)
+![lineplot_temperaturas_profundidad](https://github.com/user-attachments/assets/052540b7-90b6-45ee-9be0-ad6b6092094a)
 
 Cuando se considera la velocidad del viento por altura tenemos que la esta variable tiene fluctuaciones considerando las diferentes alturas.
-![Image](https://github.com/user-attachments/assets/b7b7567a-6555-4afe-a81f-734f57d99788)
+![lineplot_velocidad_viento_altura](https://github.com/user-attachments/assets/6a4d6492-04df-4a71-ba8d-8c5fe9ea64eb)
 
 Para la siguiente figura se usaron los promedios por día para ver la evolución de la temperatura tomando en consideración la profundidad del suelo conforme al tiempo. 
 
