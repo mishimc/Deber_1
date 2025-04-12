@@ -18,5 +18,5 @@ El siguiente gráfico nos permite visualizar la evolución de la temperatura de 
 
 ![Image](https://github.com/user-attachments/assets/b15ac7d8-acf6-415b-a12b-1cd4a4c694b7)
 
-Finalmente, también se realizó este mapa de calor para los registros de temperatura pero tomando en cuenta la velocidad del viento conforme los días.
+Finalmente, también se realizó este mapa de calor para la velocidad del viento conforme los días.
 ![Image](https://github.com/user-attachments/assets/0c7f9092-93d5-4070-81eb-f1d278d5eae6)
