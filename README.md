@@ -1,5 +1,5 @@
 # Deber 1
-En este trabajo se realizó una adquisición de una API de datos meteorológicos y visualización de datos. Los resultados los tenemos a continuación.
+En este trabajo se realizó una adquisición de una API de datos meteorológicos y visualización de datos obtenidos de https://open-meteo.com/en/docs. Los resultados los tenemos a continuación.
 La siguiente figura nos demuestra que a una profundidad de 54 cm, la temperatura no presenta una variación alta.
 ![lineplot_temperaturas_profundidad](https://github.com/user-attachments/assets/052540b7-90b6-45ee-9be0-ad6b6092094a)
 
